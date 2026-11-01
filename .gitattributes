@@ -1,0 +1,3 @@
+*.tra binary
+*.tsv text eol=lf
+*.py text eol=lf
